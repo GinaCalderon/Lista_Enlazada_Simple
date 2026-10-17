@@ -16,9 +16,8 @@ public class Main {
         System.out.println("Total de nodos: " + lista.contarNodos());
 
         // 4. Verificación de búsqueda lineal
-
-    System.out.println("¿Existe el 30?: " + lista.buscar(30));
-    System.out.println("¿Existe el 99?: " + lista.buscar(99));
+        System.out.println("¿Existe el 30?: " + lista.buscar(30));
+        System.out.println("¿Existe el 99?: " + lista.buscar(99));
  
 
     }
